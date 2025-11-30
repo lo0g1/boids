@@ -1,1 +1,1 @@
-Just a simple Boids implementation not finished btw :{
+Just a simple Boids implementation using SFML as a graphics backend 
